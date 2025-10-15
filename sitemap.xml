@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://axgn.github.io/2024/10/14/inline-and-static/</loc>
-    
-    <lastmod>2025-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://axgn.github.io/2025/08/24/oh-my-zsh-%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</loc>
-    
-    <lastmod>2025-10-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://axgn.github.io/2025/09/07/vmware-%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/</loc>
     
     <lastmod>2025-10-15</lastmod>
@@ -93,6 +75,24 @@
   
   <url>
     <loc>https://axgn.github.io/2024/11/29/how-to-use-platformio-to-develop-with-esp32/</loc>
+    
+    <lastmod>2025-10-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://axgn.github.io/2024/10/14/inline-and-static/</loc>
+    
+    <lastmod>2025-10-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://axgn.github.io/2025/08/24/oh-my-zsh-%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2025-10-15</lastmod>
     
