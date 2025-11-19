@@ -1,5 +1,3 @@
-https://axgn.github.io/2024/10/14/inline-and-static/
-https://axgn.github.io/2025/08/24/oh-my-zsh-%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/
 https://axgn.github.io/2025/09/07/vmware-%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/
 https://axgn.github.io/2025/08/26/wsl%E8%87%AA%E5%AE%9A%E4%B9%89%E5%86%85%E6%A0%B8%E6%95%99%E7%A8%8B/
 https://axgn.github.io/2025/10/07/%E6%9C%89%E5%85%B3vscode%E7%9A%84mcp%E6%95%99%E7%A8%8B/
@@ -10,6 +8,8 @@ https://axgn.github.io/2025/01/25/c-%E5%92%8Cpython%E4%B9%8B%E9%97%B4%E6%80%A7%E
 https://axgn.github.io/2025/08/24/github-action-problem1/
 https://axgn.github.io/2024/10/05/hit-oslab%E7%8E%AF%E5%A2%83%E7%9A%84%E6%90%AD%E5%BB%BA/
 https://axgn.github.io/2024/11/29/how-to-use-platformio-to-develop-with-esp32/
+https://axgn.github.io/2024/10/14/inline-and-static/
+https://axgn.github.io/2025/08/24/oh-my-zsh-%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/
 https://axgn.github.io/
 https://axgn.github.io/tags/c/
 https://axgn.github.io/tags/python/
